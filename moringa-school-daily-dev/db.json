@@ -1,0 +1,88 @@
+{
+  "categories": [
+    {
+      "id": "8352",
+      "name": "Full stack"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "User 1",
+      "active": false
+    },
+    {
+      "id": "2",
+      "name": "User 2",
+      "active": true
+    },
+    {
+      "id": "9b44",
+      "name": "Emmanuel",
+      "email": "eronoh036@gmail.com",
+      "role": "student"
+    },
+    {
+      "id": "3839",
+      "name": "kdfhjgs",
+      "email": "kdshfkjd@gmail.com",
+      "role": "tech writer"
+    },
+    {
+      "id": "d2b2",
+      "name": "Notes-taking",
+      "email": "eronoh@gmail.com",
+      "role": "admin",
+      "active": false
+    },
+    {
+      "id": "e7a8",
+      "name": "John",
+      "email": "sdkfk@gmail.com",
+      "role": "user",
+      "active": false
+    },
+    {
+      "id": "f9da",
+      "name": "Gilbert",
+      "email": "gilbertngeny@gmail.com",
+      "role": "Admin",
+      "active": true
+    },
+    {
+      "id": "5e25",
+      "name": "John",
+      "email": "john@gmail.com",
+      "role": "admin",
+      "active": false
+    },
+    {
+      "id": "49e4",
+      "name": "Faith",
+      "email": "faith@gmail.com",
+      "role": "admin",
+      "active": true
+    },
+    {
+      "id": "13d8",
+      "name": "gfcdf",
+      "email": "rdngjvdfgh@gmail.com",
+      "role": "techwriter",
+      "active": false
+    }
+  ],
+  "content": [
+    {
+      "id": "1",
+      "title": "Content 1",
+      "approved": false,
+      "flagged": false
+    },
+    {
+      "id": "2",
+      "title": "Content 2",
+      "approved": false,
+      "flagged": false
+    }
+  ]
+}
